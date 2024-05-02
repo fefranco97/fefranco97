@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Hey+%F0%9F%91%8B%2C+I'm+Felipe+Franco!+;I'm+a+software+engineer;With+focus+on+Front-end;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 </div>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
+
 <a href="https://github.com/fefranco97" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
@@ -75,7 +78,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </table>
 
 <br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
 
 <br />
