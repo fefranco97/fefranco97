@@ -58,24 +58,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## 📊 Github Stats:
 
-<table>
-<tr>
-  <td valign="top" width="50%" style="border: none;">
+<div width="100%">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fefranco97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true"/>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=fefranco97&show_icons=true&count_private=true&theme=dracula&hide_border=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=fefranco97&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fefranco97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" align="left"  />
-
-</td>
-
-  <td valign="top" width="50%" style="border: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=fefranco97&show_icons=true&count_private=true&theme=dracula&hide_border=true&layout=compact" align="left"/>
-  </td>
-
-  <!-- <td valign="top" width="33%">
-  <img src="https://streak-stats.demolab.com?user=fefranco97&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" align="left" />
-  </td> -->
-
-  </tr>
-</table>
+</div>
 
 <br/>
 
