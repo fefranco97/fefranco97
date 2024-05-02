@@ -58,15 +58,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## 📊 Github Stats:
 
-<table>
+<table hide_border=true>
 <tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fefranco97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" align="left"  />
 
 </td>
 
-  <td valign="top" width="33%">
+  <td valign="top" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=fefranco97&show_icons=true&count_private=true&theme=dracula&hide_border=true&layout=compact" align="left"/>
   </td>
 
